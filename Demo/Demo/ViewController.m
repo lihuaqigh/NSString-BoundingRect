@@ -37,7 +37,7 @@
      *根据字体和行距计算
      */
     _label1 = [[UILabel alloc] initWithFrame:CGRectZero];
-    _label1.text = @"label1:啦啦啦啦啦啦啦";
+    _label1.text = @"label1:🌶啦😋啦啦啦12";
     _label1.numberOfLines = 0;
     _label1.textAlignment = NSTextAlignmentCenter;
     _label1.backgroundColor = [UIColor colorWithRed:arc4random_uniform(256.0)/256.0 green:arc4random_uniform(256.0)/256.0 blue:arc4random_uniform(256.0)/256.0 alpha:1];
