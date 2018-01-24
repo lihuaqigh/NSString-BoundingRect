@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name         = 'BoundingRect'
-s.version      = '0.0.1'
+s.version      = '0.1.0'
 s.summary      = 'Right BoundingRect for Label'
 s.homepage     = 'https://github.com/lihuaqigh/BoundingRect.git'
 
